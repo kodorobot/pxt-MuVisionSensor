@@ -1,6 +1,6 @@
 # MUVisionSensor
 
-- MUVisionSensor扩展库
+- MUVisionSensor擴展庫
 
 ## License
 
